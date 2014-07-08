@@ -6,7 +6,7 @@ php, css, html and yaml and puppet files. The highlights don't exactly match the
 pygments doesn't label some of the keywords with the same classes (most visible with puppet files).
 
 Embed the darcula.css in your website or include darcula.less in your existing less structure.
-All highlight classes are prefixed with `.highlight`
+All highlight classes are prefixed with `.highlight`. This stylesheet doesn't set the background color for your code area's. The background in the example is `#222`.
 
 ![Screenshot with .ini file](https://raw.githubusercontent.com/MartijnBraam/pygments-theme-darcula/master/screenshot.png)
 
